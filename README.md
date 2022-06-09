@@ -12,5 +12,6 @@ podes escolher uma cor atravez da caixa em que ela muda no fundo assim verás co
   <span>Facebook</span><a href="https://www.facebook.com/profile.php?id=100022168362806">🔗David Silva</a>
   
   #badge
+  <img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/>
   https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&style=for-the-badge&logo=GHOST
  
