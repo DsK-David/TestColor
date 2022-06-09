@@ -1,6 +1,6 @@
 # TextColor
 
-#Descrição
+<h1>Discrição</h1>
 
 <p>Desejas escolher uma cor so que não saber como ele funciona no seu site o TestColor pode te ajudar....
 podes escolher uma cor atravez da caixa em que ela muda no fundo assim verás como fica num fundo e terás o nome da cor para poderes usar</p>
