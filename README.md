@@ -13,4 +13,5 @@ podes escolher uma cor atravez da caixa em que ela muda no fundo assim verás co
   
 <h1>Badge</h1>
   <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&style=for-the-badge&logo=ghost"/>
+  <img src="https://img.shields.io/badge/Version-1.0.0-%23314d722"></img>
  
